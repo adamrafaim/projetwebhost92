@@ -11,6 +11,6 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@4.3.3
       with:
         server: files.000webhost.com
-        username: projetwebhost92
+        username: projetwebhost92 
         password: YfX!pi%@2GE#8@!P^^wS
         server-dir : public_html/
